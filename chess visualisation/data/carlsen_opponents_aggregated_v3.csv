@@ -1,0 +1,478 @@
+opponent,total_matches,wins,losses,draws
+"Carlsen,M",2119,0,0,2119
+"Nakamura,Hi",115,0,0,115
+"Aronian,L",106,0,0,106
+"So,W",75,0,0,75
+"Vachier Lagrave,M",70,0,0,70
+"Anand,V",67,0,0,67
+Ding Liren,59,0,0,59
+"Tang,Andrew",57,0,0,57
+"Giri,A",56,0,0,56
+"Firouzja,Alireza",55,0,0,55
+"Caruana,F",53,0,0,53
+"Grischuk,A",52,0,0,52
+"Nepomniachtchi,I",49,0,0,49
+"Karjakin,Sergey",46,0,0,46
+"Radjabov,T",44,0,0,44
+"Mamedyarov,S",42,0,0,42
+"Artemiev,V",34,0,0,34
+"Kramnik,V",34,0,0,34
+"Ivanchuk,V",33,0,0,33
+"Svidler,P",30,0,0,30
+"Duda,J",26,0,0,26
+"Topalov,V",26,0,0,26
+"Dubov,Daniil",25,0,0,25
+"Gelfand,B",25,0,0,25
+"Leko,P",18,0,0,18
+"Maghsoodloo,Parham",17,0,0,17
+"Morozevich,A",16,0,0,16
+"Dominguez Perez,L",15,0,0,15
+"Mamedov,Rau",14,0,0,14
+"Guseinov,G",13,0,0,13
+"Bacrot,E",12,0,0,12
+"Harikrishna,P",12,0,0,12
+"Adams,Mi",12,0,0,12
+"Xiong,Jeffery",12,0,0,12
+"Shirov,A",11,0,0,11
+"Kamsky,G",11,0,0,11
+"Petrosian,TL",11,0,0,11
+Wang Yue,11,0,0,11
+"Van Wely,L",10,0,0,10
+"Cheparinov,I",10,0,0,10
+"Agdestein,S",10,0,0,10
+"Polgar,Ju",10,0,0,10
+"Naiditsch,A",10,0,0,10
+Wang Hao,9,0,0,9
+"Lie,K",9,0,0,9
+"Ponomariov,R",8,0,0,8
+"Vidit,S",7,0,0,7
+"Dreev,A",7,0,0,7
+"Van Foreest,Jorden",7,0,0,7
+"Grandelius,N",7,0,0,7
+"Pichot,A",7,0,0,7
+Bu Xiangzhi,7,0,0,7
+"Tari,A",6,0,0,6
+"Naroditsky,D",6,0,0,6
+"Navara,D",6,0,0,6
+"Alekseev,Evgeny",6,0,0,6
+"Sjugirov,S",6,0,0,6
+"Movsesian,S",6,0,0,6
+Wei Yi,6,0,0,6
+"Hansen,Eric",6,0,0,6
+"Praggnanandhaa,R",6,0,0,6
+"Nielsen,PH",6,0,0,6
+"Eljanov,P",6,0,0,6
+"Svane,R",6,0,0,6
+"Iturrizaga,E",6,0,0,6
+"Wojtaszek,R",6,0,0,6
+"Gashimov,V",6,0,0,6
+"Pelletier,Y",6,0,0,6
+Hou Yifan,6,0,0,6
+"Bortnyk,Olexandr",6,0,0,6
+"Hammer,J",5,0,0,5
+"Jobava,Ba",5,0,0,5
+"Korobov,A",5,0,0,5
+"Jakovenko,D",5,0,0,5
+"Niemann,Hans Moke",5,0,0,5
+"Vallejo Pons,F",5,0,0,5
+"Fressinet,L",5,0,0,5
+"Le, Quang Liem",5,0,0,5
+"Onischuk,Al",5,0,0,5
+"Jones,G",5,0,0,5
+"Cuenca Jimenez,J",5,0,0,5
+"Malakhov,V",4,0,0,4
+"Esipenko,Andrey",4,0,0,4
+"Rapport,R",4,0,0,4
+"Anton Guijarro,D",4,0,0,4
+"Lahno,Kateri",4,0,0,4
+"Cardoso Cardoso,Jose Gabriel",4,0,0,4
+"L'Ami,E",4,0,0,4
+"Hole,O",4,0,0,4
+Yu Yangyi,4,0,0,4
+"Volokitin,And",4,0,0,4
+Le Quang Liem,4,0,0,4
+"Inarkiev,E",4,0,0,4
+"Carlsen,Magnus",4,0,0,4
+"Short,N",4,0,0,4
+"McShane,L",4,0,0,4
+"Beliavsky,A",4,0,0,4
+"Andreikin,D",4,0,0,4
+"Bologan,V",4,0,0,4
+"Fyllingen,R",3,0,0,3
+"Howell,D",3,0,0,3
+"Kulaots,K",3,0,0,3
+"Socko,B",3,0,0,3
+"Savchenko,B",3,0,0,3
+"Kasimdzhanov,R",3,0,0,3
+"Predojevic,B",3,0,0,3
+"Lugovoi,A",3,0,0,3
+"Karpov,Ana",3,0,0,3
+"Krasenkow,M",3,0,0,3
+"Smeets,J",3,0,0,3
+"Ganguly,S",3,0,0,3
+"Korneev,O",3,0,0,3
+"Koneru,H",3,0,0,3
+"Berg,E",3,0,0,3
+"Erenburg,S",3,0,0,3
+"Tomashevsky,E",3,0,0,3
+"Dannevig,O",3,0,0,3
+"Narayanan,SL",3,0,0,3
+"Paehtz,E",3,0,0,3
+"Nordahl,H",3,0,0,3
+"Bareev,E",3,0,0,3
+"Nisipeanu,LD",3,0,0,3
+"Sharafiev,A",2,0,0,2
+"Le,Quang Liem",2,0,0,2
+"Milos,G",2,0,0,2
+"Nataf,IA",2,0,0,2
+"Jussupow,Ar",2,0,0,2
+"Andriasian,Z",2,0,0,2
+"Meier,Geo",2,0,0,2
+"Hansen,Cu",2,0,0,2
+"Trygstad,K",2,0,0,2
+"Fedoseev,Vl3",2,0,0,2
+"Azmaiparashvili,Z",2,0,0,2
+"Shankland,S",2,0,0,2
+"Sedlak,N",2,0,0,2
+"Kuzubov,Y",2,0,0,2
+"Bruzon Batista,L",2,0,0,2
+"Ostenstad,B",2,0,0,2
+"Vitiugov,N",2,0,0,2
+"Sasikiran,K",2,0,0,2
+"Saric,Iv",2,0,0,2
+"Salem,AR",2,0,0,2
+"Potkin,V",2,0,0,2
+"Sanal,V",2,0,0,2
+"Sammalvuo,T",2,0,0,2
+"Nikolic,Pr",2,0,0,2
+"Amonatov,F",2,0,0,2
+"De Firmian,N",2,0,0,2
+"Granda Zuniga,J",2,0,0,2
+"Tallaksen,G",2,0,0,2
+"Gagunashvili,M",2,0,0,2
+"Galego,L",2,0,0,2
+"Abdusattorov,Nodirbek",2,0,0,2
+"Adhiban,Baskaran",2,0,0,2
+The World,2,0,0,2
+"Stefansson,H",2,0,0,2
+"Stefanova,A",2,0,0,2
+"Keymer,Vincent",2,0,0,2
+"Kosteniuk,A",2,0,0,2
+"Timman,J",2,0,0,2
+"Zhigalko,S",2,0,0,2
+"Nihal,Sarin",2,0,0,2
+"Matlakov,M",2,0,0,2
+"Grachev,B",2,0,0,2
+"Akobian,V",2,0,0,2
+"Rodriguez Vila,A",2,0,0,2
+"Skripchenko,A",2,0,0,2
+"Almasi,Z",2,0,0,2
+Li Chao2,2,0,0,2
+"Mastrovasilis,D",2,0,0,2
+"Doettling,F",2,0,0,2
+"Djukic,Ni",2,0,0,2
+"Tkachiev,V",2,0,0,2
+"Donchenko,Alexa",2,0,0,2
+"Grover,S",2,0,0,2
+"Todorovic,GM",2,0,0,2
+"Prevezer,Mark",1,0,0,1
+"Pruijssers,R",1,0,0,1
+"Ragger,M",1,0,0,1
+"Prasca,R",1,0,0,1
+"Praszak,M",1,0,0,1
+"Nunn,J",1,0,0,1
+"Pedersen,Stef",1,0,0,1
+"Nyysti,S",1,0,0,1
+"Olafsson,H1",1,0,0,1
+"Pechac,Jergus",1,0,0,1
+"Payen,A",1,0,0,1
+"Pavasovic,D",1,0,0,1
+Peng Zhaoqin,1,0,0,1
+"Papaioannou,I",1,0,0,1
+"Perman,E",1,0,0,1
+"Petersen,Caleb",1,0,0,1
+"Papa,S",1,0,0,1
+"Petrosyan,M",1,0,0,1
+"Petrov,N",1,0,0,1
+"Plachkinova,T",1,0,0,1
+"Pantzar,Milton",1,0,0,1
+"Pantsulaia,L",1,0,0,1
+"Panda,Vedic",1,0,0,1
+"Ostmoe,G",1,0,0,1
+"Popov,Iv RUS",1,0,0,1
+"Popov,Val",1,0,0,1
+"Porat,S",1,0,0,1
+"Portisch,L",1,0,0,1
+"Potapov,P",1,0,0,1
+"Osinovsky,S",1,0,0,1
+"Onischuk,V",1,0,0,1
+"Olszewski,Mi",1,0,0,1
+"Pedersen,Nic",1,0,0,1
+"Aarland,SA",1,0,0,1
+Rajarishi Karthi,1,0,0,1
+"Tryggestad,Andreas Garberg",1,0,0,1
+"Vescovi,G",1,0,0,1
+"Vegh,E",1,0,0,1
+"Vassallo,M",1,0,0,1
+"Vajda,S",1,0,0,1
+"Vaishali,R",1,0,0,1
+"Utegaliyev,A",1,0,0,1
+"Urkedal,F",1,0,0,1
+"Tsydypov,Z",1,0,0,1
+"Tjomsland,S",1,0,0,1
+"Vladimirov,E",1,0,0,1
+"Tiviakov,S",1,0,0,1
+"Thorhallsson,T",1,0,0,1
+The Net,1,0,0,1
+"Teterev,V",1,0,0,1
+"Taylor,T",1,0,0,1
+"Sychev,K",1,0,0,1
+"Sutovsky,E",1,0,0,1
+"Sulskis,S",1,0,0,1
+"Vidoniak,R",1,0,0,1
+"Vlassov,N",1,0,0,1
+"Ramirez Garrastacho,M",1,0,0,1
+"Xu,Grant Y",1,0,0,1
+Zhao Zong Yuan,1,0,0,1
+Zhang Pengxiang,1,0,0,1
+"Zakharov,AS",1,0,0,1
+"Yuffa,D",1,0,0,1
+"Yip,Carissa",1,0,0,1
+"Yilmaz,M",1,0,0,1
+"Yatzenko,A",1,0,0,1
+"Yanchenko,R",1,0,0,1
+"Winants,L",1,0,0,1
+"Vokhidov,Shamsiddin",1,0,0,1
+"Wilson,Rainn",1,0,0,1
+"Willumsen,Niels Henrik",1,0,0,1
+"Wiebe,Isaac",1,0,0,1
+"Werle,J",1,0,0,1
+"Weeks,Ma",1,0,0,1
+"Ward,C",1,0,0,1
+"Wagner,De",1,0,0,1
+"Wachinger,G",1,0,0,1
+"Stubberud,O",1,0,0,1
+"Stokke,K",1,0,0,1
+"Stojanovski,D",1,0,0,1
+"Rustemov,A",1,0,0,1
+"Schewe,Joerg",1,0,0,1
+"Scheffknecht,P",1,0,0,1
+"Schandorff,L",1,0,0,1
+"Sargissian,G",1,0,0,1
+"Salgado Lopez,I",1,0,0,1
+"Sala Samarra,Ivet",1,0,0,1
+"Sahidi,Samir",1,0,0,1
+"Sadorra,J",1,0,0,1
+"Runde,HA",1,0,0,1
+"Stellwagen,D",1,0,0,1
+"Rukovci,Shemsi",1,0,0,1
+"Rublevsky,S",1,0,0,1
+"Rozentalis,E",1,0,0,1
+"Royset,P",1,0,0,1
+"Riley,Jonathan",1,0,0,1
+"Rekola,Kimmo",1,0,0,1
+"Rause,O",1,0,0,1
+"Ramya,S",1,0,0,1
+"Schitco,Ivan",1,0,0,1
+"Schneider,Il",1,0,0,1
+"Sebenik,M",1,0,0,1
+"Shaposhnikov,E",1,0,0,1
+"Stanojoski,Z",1,0,0,1
+"Spoelman,W",1,0,0,1
+"Solsky,Itzhak",1,0,0,1
+"Sollid,Stein",1,0,0,1
+"Solak,D",1,0,0,1
+"Sokolov,Ivan",1,0,0,1
+"Sokolov,I",1,0,0,1
+"Snarheim,D",1,0,0,1
+"Sloan,Jed David",1,0,0,1
+"Skliarov,V",1,0,0,1
+"Skjoldan,B",1,0,0,1
+"Sjkadiuk,Aleksander",1,0,0,1
+"Shuvalova,Polina",1,0,0,1
+"Shumiakina,T",1,0,0,1
+"Shipov,S",1,0,0,1
+"Shimanov,A",1,0,0,1
+"Shevchenko,Kirill",1,0,0,1
+"Nilssen,J",1,0,0,1
+"Lei,Tingjie",1,0,0,1
+"Nijboer,F",1,0,0,1
+"Flaata,A",1,0,0,1
+"Fant,G",1,0,0,1
+"Etmans,M",1,0,0,1
+"Ernst,S",1,0,0,1
+"Erigaisi,Arjun",1,0,0,1
+"Epishin,V",1,0,0,1
+"Elsness,F",1,0,0,1
+"El Debs,F",1,0,0,1
+"Ehlvest,J",1,0,0,1
+"Egeland,M",1,0,0,1
+"Efimenko,Z",1,0,0,1
+"Dworakowska,J",1,0,0,1
+"Drozdowski,K",1,0,0,1
+"Drabke,L",1,0,0,1
+"Dolmatov,S",1,0,0,1
+"Dimitriadis,M",1,0,0,1
+"Diamant,A",1,0,0,1
+"Demidov,M",1,0,0,1
+"Deepan,C",1,0,0,1
+"Deac,Bogdan-Daniel",1,0,0,1
+"Finegold,B",1,0,0,1
+"Flores Rios,M",1,0,0,1
+"Nakamura,H",1,0,0,1
+"Fossan,E",1,0,0,1
+"Gupta,Ab",1,0,0,1
+"Gunnarsson,J",1,0,0,1
+"Gullaksen,E",1,0,0,1
+"Gulbrandsen,Gustav",1,0,0,1
+"Gukesh,D",1,0,0,1
+"Gudbrandsen,G",1,0,0,1
+"Grojean,Andrew",1,0,0,1
+"Groenn,A",1,0,0,1
+"Grigoriants,S RUS",1,0,0,1
+"Grigore,Ge",1,0,0,1
+"Gretarsson,H",1,0,0,1
+"Gorozhanin,M",1,0,0,1
+"Goldman,Bjoern",1,0,0,1
+"Ghosh,D",1,0,0,1
+"Ghaem Maghami,E",1,0,0,1
+"Georgiev,Vl",1,0,0,1
+"Georgiev,Ki",1,0,0,1
+"Georgiadis,N",1,0,0,1
+"Gabrielsen,S",1,0,0,1
+"Daly,C",1,0,0,1
+"Crumiller, Jon",1,0,0,1
+"Cornette,M",1,0,0,1
+"Cordova,E",1,0,0,1
+"Bekker Jensen,Anders",1,0,0,1
+"Beerdsen,Thomas",1,0,0,1
+"Bauer,Ch",1,0,0,1
+"Batsuren,Dambasuren",1,0,0,1
+"Batsiashvili,N",1,0,0,1
+"Baramidze,D",1,0,0,1
+"Balogun,Oluwafemi",1,0,0,1
+"Bae,T",1,0,0,1
+"Azarov,S",1,0,0,1
+"Avrukh,B",1,0,0,1
+"Arduman,C",1,0,0,1
+"Andersson,U",1,0,0,1
+"Andersen,A",1,0,0,1
+"Anagnostopoulos,D",1,0,0,1
+"Amin,B",1,0,0,1
+"Aldrovandi,C",1,0,0,1
+"Akopian,Vl",1,0,0,1
+"Agrest,E",1,0,0,1
+"Adly,A",1,0,0,1
+"Belov,Vl",1,0,0,1
+"Berg,O",1,0,0,1
+"Berkowitz,Ben",1,0,0,1
+"Bruzon,L",1,0,0,1
+"Coleman,T",1,0,0,1
+"Cmilyte,V",1,0,0,1
+"Christenson,F",1,0,0,1
+"Chadaev,N",1,0,0,1
+"Carlsen,H",1,0,0,1
+"Caoili,A",1,0,0,1
+"Calzetta,M",1,0,0,1
+"Burmakin,V",1,0,0,1
+"Bromberger,S",1,0,0,1
+"Bindrich,F",1,0,0,1
+"Breivik,Lars",1,0,0,1
+"Brameld,A",1,0,0,1
+"Bosiocic,Mari",1,0,0,1
+"Boruchovsky,A",1,0,0,1
+"Bok,B",1,0,0,1
+"Bluvshtein,M",1,0,0,1
+"Bjerre,Jonas Buhl",1,0,0,1
+"Birkisson,Bardur Orn",1,0,0,1
+"Gurevich,D",1,0,0,1
+"Gurevich,M",1,0,0,1
+"Hambleton,A",1,0,0,1
+"Kovalev,Vl",1,0,0,1
+"Madsen,D",1,0,0,1
+"Llobel Cortell,E",1,0,0,1
+"Ljubojevic,L",1,0,0,1
+"Ljubisavljevic,Z",1,0,0,1
+"Livshits,G",1,0,0,1
+"Liang,Awonder",1,0,0,1
+"Lenic,L",1,0,0,1
+"Leitao,R",1,0,0,1
+"Abdumalik,Z",1,0,0,1
+"Leer Salvesen,B",1,0,0,1
+"Laznicka,V",1,0,0,1
+"Lautier,J",1,0,0,1
+"Lalith,B",1,0,0,1
+LakeMonster,1,0,0,1
+"Lahlum,H",1,0,0,1
+"Kveinys,A",1,0,0,1
+"Kryvoruchko,Y",1,0,0,1
+"Krsnik Cohar,I",1,0,0,1
+"Krivoborodov,E",1,0,0,1
+"Maeder,Torsten",1,0,0,1
+"Manfay,M",1,0,0,1
+"Manne,P",1,0,0,1
+"Mishra,Abhimanyu",1,0,0,1
+"Muzychuk,A",1,0,0,1
+"Movsziszian,K",1,0,0,1
+"Moskow,E",1,0,0,1
+"Moiseenko,A1",1,0,0,1
+"Mohammad,Nubairshah Shaikh",1,0,0,1
+"Moen,A",1,0,0,1
+"Mitrabha,G",1,0,0,1
+"Miton,K",1,0,0,1
+"Miezis,N",1,0,0,1
+"Manukian,Ar",1,0,0,1
+"Miellet Bensan,Y",1,0,0,1
+"Meshkovs,Nikita",1,0,0,1
+"Mendonca,Leon Luke",1,0,0,1
+"Mekhitarian,K",1,0,0,1
+"Marx,Soeren",1,0,0,1
+"Martyr,Reginald",1,0,0,1
+"Martinovic,Sa",1,0,0,1
+"Marin,M",1,0,0,1
+"Kristjansson,S",1,0,0,1
+"Kotsur,P",1,0,0,1
+"Hansen,LB",1,0,0,1
+"Kotronias,V",1,0,0,1
+"Indrebo,Kyrre",1,0,0,1
+"Ibraev,N",1,0,0,1
+"Hracek,Z",1,0,0,1
+"Hossain,Enam",1,0,0,1
+"Holm,Kristian Stuvik",1,0,0,1
+"Hobber,A",1,0,0,1
+"Hjelm,N",1,0,0,1
+"Hillarp Persson,T",1,0,0,1
+"Hevia,A",1,0,0,1
+"Hermansson,E",1,0,0,1
+"Henriquez Villagra,C",1,0,0,1
+"Heim,S",1,0,0,1
+"Hassan,Sampath Santosh",1,0,0,1
+"Hartveit,Emil",1,0,0,1
+"Harsha,B",1,0,0,1
+"Harestad,H",1,0,0,1
+"Hansen,Vi",1,0,0,1
+"Hansen,TR",1,0,0,1
+"Hansen,Pa",1,0,0,1
+"Iordachescu,V",1,0,0,1
+"Isonzo,D",1,0,0,1
+"Ivanisevic,I",1,0,0,1
+"Karelina,Polina",1,0,0,1
+"Korotylev,A",1,0,0,1
+"Kobalia,M",1,0,0,1
+"Kjartansson,D",1,0,0,1
+"Kiik,K",1,0,0,1
+"Kharlov,A",1,0,0,1
+"Khalifman,A",1,0,0,1
+"Kasparov,G",1,0,0,1
+"Karttunen,M",1,0,0,1
+"Kalinitschew,S",1,0,0,1
+"Jangle,Hemang J",1,0,0,1
+"Jumabayev,R",1,0,0,1
+"Ju,Wenjun",1,0,0,1
+"Jones,RS",1,0,0,1
+"Johansson,P",1,0,0,1
+"Johansen,SA",1,0,0,1
+"Johansen,KR",1,0,0,1
+"Johannessen,LE",1,0,0,1
+"Janssen,R",1,0,0,1
+"Zoler,D",1,0,0,1
